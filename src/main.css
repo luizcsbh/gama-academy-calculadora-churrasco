@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap'); 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:#763CB7;
+}
+
+.container{
+    border: 1px red solid;
+    background: #552E8C;
+    color: #ffffff
+}
+.centralizar{
+    text-align: center;
+}
+
+header{
+    margin-top: 5rem;
+}
+
+header h5{
+    font-size: 15px;
+}
+
+header h2{
+    font-family: Lobster;
+    font-size: 40px;
+    
+}
+ form span{
+     font-family: Lobster ;
+ }
+
+ .btn-gama{
+     color: #552E8C;
+     background:#73DD3F;
+ }
+
+ input{
+     border: 2px white solid;
+     background:#552E8C;
+     color: white;
+     outline: none;
+     text-align: center;
+ }
+
+ .row{
+     margin-left: 5rem;
+ }
+
+ 
